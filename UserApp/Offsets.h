@@ -40,7 +40,7 @@ namespace hazedumper {
 		constexpr ::std::ptrdiff_t m_bUseCustomAutoExposureMin = 0x9D8;
 		constexpr ::std::ptrdiff_t m_bUseCustomBloomScale = 0x9DA;
 		constexpr ::std::ptrdiff_t m_clrRender = 0x70;
-		constexpr ::std::ptrdiff_t m_dwBoneMatrix = 0x26A8;
+		constexpr ::std::ptrdiff_t m_dwBoneMatrix = 0x2610;
 		constexpr ::std::ptrdiff_t m_fAccuracyPenalty = 0x3330;
 		constexpr ::std::ptrdiff_t m_fFlags = 0x104;
 		constexpr ::std::ptrdiff_t m_flC4Blow = 0x2990;
